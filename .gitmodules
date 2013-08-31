@@ -1,0 +1,6 @@
+[submodule "bundle/bclose"]
+	path = bundle/bclose
+	url = https://github.com/bcaccinolo/bclose.git
+[submodule "bundle/ack"]
+	path = bundle/ack
+	url = https://github.com/petdance/ack.git
