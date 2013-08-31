@@ -4,3 +4,12 @@
 [submodule "bundle/ack"]
 	path = bundle/ack
 	url = https://github.com/petdance/ack.git
+[submodule "bundle/buftabs"]
+	path = bundle/buftabs
+	url = https://github.com/vim-scripts/buftabs.git
+[submodule "bundle/gdbmgr"]
+	path = bundle/gdbmgr
+	url = https://github.com/vim-scripts/gdbmgr.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
