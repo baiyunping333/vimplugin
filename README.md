@@ -3,6 +3,9 @@ vimplugin
 ```
 My Vim Plugin
 
+mkdir ~/.vim
+git clone https://github.com/baiyunping333/vimplugin.git ~/.vim
+
 cd ~/.vim
 cp -rf .vimrc ~/
 
